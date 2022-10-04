@@ -22,6 +22,7 @@ let
     # Notebook editing
     ps.jupyter
     ps.ipython
+    ps.ipympl
   ]);
 in
 pkgs.mkShell {
