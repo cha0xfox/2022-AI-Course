@@ -8,8 +8,9 @@ let
     ps.scipy
     ps.pandas
     ps.matplotlib
+    ps.scikit-learn
 
-    ps.mdutils
+    #ps.mdutils
     ps.pygmo
 
     # Grab samples from the net via Python
