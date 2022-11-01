@@ -12,6 +12,7 @@ let
 
     #ps.mdutils
     ps.pygmo
+    #ps.optuna # not working for my mac, only for nixOs
 
     # Grab samples from the net via Python
     #ps.requests
