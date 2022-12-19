@@ -1,7 +1,6 @@
 { pkgs ? import <nixpkgs> {}}:
 
 let
-  # Python 3.7 environment with all of the packages I require
   pythonEnv = pkgs.python39.withPackages (ps: [
     # Scientific python essentials
     ps.numpy
@@ -22,7 +21,8 @@ let
     #ps.nltk
 
     # Notebook editing
-    ps.jupyter
+    ps.jupyterlab
+    ps.tensorflow
     ps.ipython
     ps.ipympl
   ]);
