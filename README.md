@@ -6,7 +6,7 @@
 
 Repo for exercises in course MAI 2022 SuperComputerTech Basics of AI.
 
-Dataset url: [Wine Reviews](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+Dataset url: [Oxford flower 102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 Numpy 100 : [Numpy](https://github.com/cha0xfox/numpy-100)
 
