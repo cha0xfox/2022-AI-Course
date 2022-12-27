@@ -1,5 +1,5 @@
-(!)*kurs/dataset/
-(!)*kurs/tmp/
-(!)*kurs/logs/
+**/kurs/dataset/
+**/kurs/tmp/
+**/kurs/logs/
 .vscode
 .DS_Store
